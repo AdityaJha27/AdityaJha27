@@ -32,20 +32,24 @@ Worked on training and evaluating LLM agents under competitive constraints.
 Focused on evaluation-aware system design and optimization.
 
 ---
+## Technical Skills
 
-Technical Skills
+### Programming
+Python • C++ • Object-Oriented Programming
 
-Machine Learning  
-Python • XGBoost • Scikit-learn • TensorFlow • Keras  
+### Problem Solving
+Data Structures & Algorithms (LeetCode)  
+Time & Space Complexity Optimization • Algorithmic Thinking
 
-Computer Vision  
-ResNet50 • Embedding extraction • Similarity search  
+### Backend & Systems
+FastAPI • Flask • REST APIs • Git • Linux • Streamlit
 
-Data & Backend  
-Pandas • NumPy • Flask  
+### Machine Learning & AI
+XGBoost • Scikit-learn • TensorFlow • Keras • NumPy • pandas  
+Model Evaluation • Feature Engineering • Hyperparameter Tuning
 
-Tools  
-Git • Linux • Streamlit  
+### Computer Vision
+ResNet50 • Embedding Extraction • Similarity Search • Cosine Distance
 
 ---
 
@@ -55,3 +59,22 @@ Current Focus
 • Strengthening mathematical foundations of ML  
 • Writing production-ready ML code  
 • Preparing for AI/ML internships
+
+---
+
+Engineering Philosophy
+
+Models are valuable only when they are reliable, well-evaluated, and deployable.
+
+Build > Consume  
+Systems > Scripts  
+Depth > Hype  
+
+---
+
+Profiles
+
+LinkedIn: https://www.linkedin.com/in/aditya-kumar-jha-05844b380/  
+LeetCode: https://leetcode.com/u/adityajha27/
+
+If you find something useful in my repositories, feel free to ⭐ it.
