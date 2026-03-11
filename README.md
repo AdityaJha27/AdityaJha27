@@ -75,6 +75,5 @@ Depth > Hype
 Profiles
 
 LinkedIn: https://www.linkedin.com/in/aditya-kumar-jha-05844b380/  
-LeetCode: https://leetcode.com/u/adityajha27/
 
 If you find something useful in my repositories, feel free to ⭐ it.
