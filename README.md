@@ -7,8 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-jha-05844b380/)
 &nbsp;
 ![Status](https://img.shields.io/badge/Status-Actively%20Building-22c55e?style=for-the-badge)
-&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=AdityaJha27&color=0ea5e9&style=flat-square&label=Profile+Views)
+
+<br>
+
+![Visitors](https://komarev.com/ghpvc/?username=AdityaJha27&color=0ea5e9&style=for-the-badge&label=Profile+Views)
 
 </div>
 
