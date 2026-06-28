@@ -7,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-jha-05844b380/)
 &nbsp;
 ![Status](https://img.shields.io/badge/Status-Actively%20Building-22c55e?style=for-the-badge)
+&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=AdityaJha27&color=0ea5e9&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -131,6 +133,36 @@ Trained and evaluated LLM-based agents under reinforcement learning constraints 
 | Explainability + reliability | Benchmark scores |
 | Understanding the fundamentals | Chasing frameworks |
 | End-to-end ownership | Isolated components |
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaJha27&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaJha27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJha27&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJha27&theme=tokyonight&hide_border=true" height="165"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaJha27&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
 
 ---
 
